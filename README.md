@@ -1,6 +1,6 @@
 # Todo list using only vanilla tools
 
-The application is running on a clean Javascript/CSS3/HTML5
+The application is running on a clean HTML5/Javascript/CSS3
 
 ## Application Functional Part :
 - Add Note
@@ -17,4 +17,4 @@ git clone https://github.com/alexersh/news-page.git
 ```
 
 ### Test the application
-Just start your own local server in your VS code or you can use other server application
+Just start your own local server in your Visual Studio code or you can use other server application
