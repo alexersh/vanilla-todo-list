@@ -2,7 +2,7 @@
 
 The application is running on a clean Javascript/CSS3/HTML5
 
-###Application Functional Part :
+## Application Functional Part :
 - Add Note
 - Delete Note
 - Mark Note Completed
